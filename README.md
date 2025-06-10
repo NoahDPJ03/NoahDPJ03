@@ -1,13 +1,13 @@
 # Hello! 
 
-This profile showcases my portfolio of data science and machine learning projects, spanning from tutorial-based implementations to original research. Projects are created using Python and Jupyter notebooks, often in Google Colab for convenience.
+This profile showcases my portfolio of data science and machine learning projects, spanning from tutorial-based implementations to original work. Projects are created using Python and Jupyter notebooks, but often in Google Colab.
 
 ## Projects
 
 ### Linear Regression from Scratch
-Going into Linear Regression but without any Scikitlearn! This project emphasizes a lot of the Mathematics behind Linear Regression by building one from scratch. At the end, we see a comparison of the results of my model to those of scikitlearn, and the R^2 values are very similar.
+Going into Linear Regression but without any Scikit-learn! This project emphasizes a lot of the Mathematics behind Linear Regression by building one from scratch. At the end, we see a comparison of the results of my model to those of scikit-learn, and the R^2 values are very similar.
 
-- Tools: Pandas, Seaborn, Pandas, and Scikit-learn (for comparison)
+- Tools: Pandas, Seaborn, Matplotlib, and Scikit-learn (for comparison)
 - Concepts: Derivatives, Linear Regression, Gradient Descent, Multicollinearity, Feature Engineering, Standardizing, etc.
 - Datasets used: https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025
 

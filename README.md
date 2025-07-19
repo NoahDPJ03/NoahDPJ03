@@ -30,7 +30,7 @@ A notebook focused on learning how Random Forest Regression works, implemented u
 - Tools: Scikit-learn, NumPy
 - Concepts: Decision Trees, Random Forests, Overfitting vs. Generalization
 
-##Kruskal, Prim, Dijkstra, and Chomp game
+### Kruskal, Prim, Dijkstra, and Chomp game
 Notebook + LaTeX file focusing on the implementation of Kruskal, Prim, and Dijkstra algorithms on example graphs + winning strategies in the game of Chomp.
 
 - Tools: numpy, matplotlib

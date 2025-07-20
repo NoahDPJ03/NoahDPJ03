@@ -2,7 +2,7 @@
 
 This profile showcases my portfolio of data science and machine learning projects, spanning from tutorial-based implementations to original work. Projects are created using Python and Jupyter notebooks, but often in Google Colab.
 
-## Projects
+## Projects / Repositories
 
 ### Linear Regression from Scratch
 Going into Linear Regression but without any Scikit-learn! This project emphasizes a lot of the Mathematics behind Linear Regression by building one from scratch. At the end, we see a comparison of the results of my model to those of scikit-learn, and the R^2 values are very similar.
@@ -35,6 +35,12 @@ Notebook + LaTeX file focusing on the implementation of Kruskal, Prim, and Dijks
 
 - Tools: numpy, matplotlib
 - Concepts: Graph Theory, Adjancency Matrices, Game Theory, etc.
+
+### Markov Chains, Monte Carlo, Generating Functions
+Notebook & LaTeX file with using markov chains and Monte Carlo on the 2x10 tilings of a domino board, also implements generating functions from recurrence relation.
+
+- Tools: numpy, sympy, matplotlib
+- Concepts: MCMC, recurrences, Differential Equations, Graphs, etc.
 
 ## How to Run
 

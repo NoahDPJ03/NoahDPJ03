@@ -2,6 +2,12 @@
 
 This profile showcases my portfolio of data science and machine learning projects, spanning from tutorial-based implementations to original work. Projects are created using Python and Jupyter notebooks, but often in Google Colab.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## How to Run
+
+Mostly all notebooks are built in Google Colab. You can open and run them using the Colab badge or by uploading to your Google Drive.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects / Repositories
 
 ### Expectation Maximization - Monte Carlo Markov Chain vs. Responsibilities Methods
@@ -45,16 +51,8 @@ Notebook & LaTeX file with using markov chains and Monte Carlo on the 2x10 tilin
 - Tools: numpy, sympy, matplotlib
 - Concepts: MCMC, recurrences, Differential Equations, Graphs, etc.
 
-## How to Run
 
-Mostly all notebooks are built in Google Colab. You can open and run them using the Colab badge or by uploading to your Google Drive.
 
 ## About
 
 All repositories serve to track my learning and share my work in data science and machine learning.
-
----
-
-**NOTE: THIS README WAS WORKED ON WITH THE HELP OF USING CHATPGT 4o MODEL**
-
-Feel free to explore and leave feedback!

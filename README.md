@@ -15,6 +15,7 @@ This is a semi-research paper that analyses the different methods of doing Expec
 
 - Tools: Matplotlib, Numpy, functools
 - Concepts: Monte Carlo Markov Chains, Nested Algorithms, Mixture models, EM (obviously), etc.
+- Check out the project here: https://github.com/NoahDPJ03/EM
 
 ### Linear Regression from Scratch
 Going into Linear Regression but without any Scikit-learn! This project emphasizes a lot of the Mathematics behind Linear Regression by building one from scratch. At the end, we see a comparison of the results of my model to those of scikit-learn, and the $R^2$ values are very similar.
@@ -22,18 +23,22 @@ Going into Linear Regression but without any Scikit-learn! This project emphasiz
 - Tools: Pandas, Seaborn, Matplotlib, and Scikit-learn (for comparison)
 - Concepts: Derivatives, Linear Regression, Gradient Descent, Multicollinearity, Feature Engineering, Standardizing, etc.
 - Datasets used: https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025
+- Check it out here: https://github.com/NoahDPJ03/Linear-Regression-from-Scratch
+
 
 ### Kruskal, Prim, Dijkstra, and Chomp game
 Notebook + LaTeX file focusing on the implementation of Kruskal, Prim, and Dijkstra algorithms on example graphs + winning strategies in the game of Chomp.
 
 - Tools: numpy, matplotlib
 - Concepts: Graph Theory, Adjancency Matrices, Game Theory, etc.
+- Check it out here: https://github.com/NoahDPJ03/KrusPrimDijkChomp
 
 ### Markov Chains, Monte Carlo, Generating Functions
 Notebook & LaTeX file with using markov chains and Monte Carlo on the 2x10 tilings of a domino board, also implements generating functions from recurrence relation.
 
 - Tools: numpy, sympy, matplotlib
 - Concepts: MCMC, recurrences, Differential Equations, Graphs, etc.
+- Check it out here: https://github.com/NoahDPJ03/Markov_MonteCarlo_GF
 
 ### Exploratory Data Analysis + Linear Regression - Esports
 This project goes into using Data Analysis techniques and some Linear Regression to look into Player/Team Earnings based on factors like the type of game played, total tournaments played, etc.
@@ -41,18 +46,21 @@ This project goes into using Data Analysis techniques and some Linear Regression
 - Tools: Pandas, Matplotlib, Seaborn, Scikit-learn
 - Concepts: Linear Regression, Feature Engineering, Scatterplot and boxplots, etc.
 - Datasets: https://www.kaggle.com/datasets/jackdaoud/esports-earnings-for-players-teams-by-game
+- Check it out here: https://github.com/NoahDPJ03/EDA-Esports-Earnings
 
 ### California House Pricing Prediction - Tutorial: https://www.youtube.com/watch?v=Wqmtf9SA_kk&t=54s&ab_channel=NeuralNine
 A beginner-friendly project using linear regression to predict house prices in California based on features like location, income, and population. This project helps build foundational skills in data preprocessing, visualization, and regression modeling.
 
 - Tools: Pandas, Matplotlib, Scikit-learn 
 - Concepts: Linear Regression, Feature Engineering, Model Evaluation
+- Check it out here: https://github.com/NoahDPJ03/California-House-Prediction
 
 ### Learning Random Forest Regression - Tutorial: https://www.youtube.com/watch?v=YUsx5ZNlYWc&t=601s&ab_channel=Ryan%26MattDataScience
 A notebook focused on learning how Random Forest Regression works, implemented using Scikit-learn. It demonstrates how ensemble methods improve predictions compared to simpler models.
 
 - Tools: Scikit-learn, NumPy
 - Concepts: Decision Trees, Random Forests, Overfitting vs. Generalization
+- Check it out here: https://github.com/NoahDPJ03/Learning-Random-Forest-Regression
 
 
 

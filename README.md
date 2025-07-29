@@ -67,4 +67,4 @@ A notebook focused on learning how Random Forest Regression works, implemented u
 
 ## About
 
-All repositories serve to track my learning and share my work in data science and machine learning.
+All repositories serve to track my learning and share my work in data science, machine learning, statistics, and computer science.

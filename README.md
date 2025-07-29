@@ -11,7 +11,10 @@ Mostly all notebooks are built in Google Colab. You can open and run them using 
 ## Projects / Repositories
 
 ### Expectation Maximization - Monte Carlo Markov Chain vs. Responsibilities Methods
-This is a semi-research paper that analyses the different methods of doing Expectation Maximization. This analyzes 
+This is a semi-research paper that analyses the different methods of doing Expectation Maximization (EM). It explains the two methods for EM, shows the coding implementation, and further analyzes (by making a special function for randomly sampling mixed data) and compares them.
+
+- Tools: Matplotlib, Numpy, functools
+- Concepts: Monte Carlo Markov Chains, Nested Algorithms, Mixture models, EM (obviously), etc.
 
 ### Linear Regression from Scratch
 Going into Linear Regression but without any Scikit-learn! This project emphasizes a lot of the Mathematics behind Linear Regression by building one from scratch. At the end, we see a comparison of the results of my model to those of scikit-learn, and the $R^2$ values are very similar.

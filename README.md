@@ -2,12 +2,10 @@
 
 This profile showcases my portfolio of data science and machine learning projects, spanning from tutorial-based implementations to original work. Projects are created using Python and Jupyter notebooks, but often in Google Colab.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How to Run
 
 Mostly all notebooks are built in Google Colab. You can open and run them using the Colab badge or by uploading to your Google Drive.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projects / Repositories
 
 ### Expectation Maximization - Monte Carlo Markov Chain vs. Responsibilities Methods

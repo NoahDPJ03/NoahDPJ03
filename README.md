@@ -23,6 +23,18 @@ Going into Linear Regression but without any Scikit-learn! This project emphasiz
 - Concepts: Derivatives, Linear Regression, Gradient Descent, Multicollinearity, Feature Engineering, Standardizing, etc.
 - Datasets used: https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025
 
+### Kruskal, Prim, Dijkstra, and Chomp game
+Notebook + LaTeX file focusing on the implementation of Kruskal, Prim, and Dijkstra algorithms on example graphs + winning strategies in the game of Chomp.
+
+- Tools: numpy, matplotlib
+- Concepts: Graph Theory, Adjancency Matrices, Game Theory, etc.
+
+### Markov Chains, Monte Carlo, Generating Functions
+Notebook & LaTeX file with using markov chains and Monte Carlo on the 2x10 tilings of a domino board, also implements generating functions from recurrence relation.
+
+- Tools: numpy, sympy, matplotlib
+- Concepts: MCMC, recurrences, Differential Equations, Graphs, etc.
+
 ### Exploratory Data Analysis + Linear Regression - Esports
 This project goes into using Data Analysis techniques and some Linear Regression to look into Player/Team Earnings based on factors like the type of game played, total tournaments played, etc.
 
@@ -42,17 +54,6 @@ A notebook focused on learning how Random Forest Regression works, implemented u
 - Tools: Scikit-learn, NumPy
 - Concepts: Decision Trees, Random Forests, Overfitting vs. Generalization
 
-### Kruskal, Prim, Dijkstra, and Chomp game
-Notebook + LaTeX file focusing on the implementation of Kruskal, Prim, and Dijkstra algorithms on example graphs + winning strategies in the game of Chomp.
-
-- Tools: numpy, matplotlib
-- Concepts: Graph Theory, Adjancency Matrices, Game Theory, etc.
-
-### Markov Chains, Monte Carlo, Generating Functions
-Notebook & LaTeX file with using markov chains and Monte Carlo on the 2x10 tilings of a domino board, also implements generating functions from recurrence relation.
-
-- Tools: numpy, sympy, matplotlib
-- Concepts: MCMC, recurrences, Differential Equations, Graphs, etc.
 
 
 

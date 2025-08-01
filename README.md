@@ -9,14 +9,24 @@ Mostly all notebooks are built in Google Colab. You can open and run them using 
 ## Projects / Repositories
 
 ### Expectation Maximization - Monte Carlo Markov Chain vs. Responsibilities Methods
-This is a research paper that analyses the different methods of doing Expectation Maximization (EM). It explains the two methods for EM, shows the coding implementation, and further analyzes (by making a special function for randomly sampling mixed data) and compares them.
+Developed and analyzed two Expectation Maximization (EM) algorithms—the traditional Responsibility Method and a custom
+MCMC-based approximation—to compare their effectiveness in estimating parameters of mixed distributions. Implemented both
+methods from scratch in Python, including robust E- and M-step functions, parameter updates, and log-likelihood tracking. Built
+a randomized data generator to simulate mixtures of continuous and discrete distributions, automating large-scale tests without
+user input. Visualized performance through convergence plots and statistical comparisons, revealing that the MCMC
+approximation yielded results nearly identical to the standard method despite higher complexity.
 
 - Tools: Matplotlib, Numpy, functools
 - Concepts: Monte Carlo Markov Chains, Nested Algorithms, Mixture models, EM (obviously), etc.
 - Check out the project here: https://github.com/NoahDPJ03/EM
 
 ### Linear Regression from Scratch
-Going into Linear Regression but without any Scikit-learn! This project emphasizes a lot of the Mathematics behind Linear Regression by building one from scratch. At the end, we see a comparison of the results of my model to those of scikit-learn, and the $R^2$ values are very similar.
+Built a linear regression model from scratch in Python to explore the mathematical foundations behind the algorithm, avoiding
+scikit-learn during implementation. Started with simple univariate regression, then extended to multivariate cases, ultimately
+creating a generalized function capable of modeling any number of independent variables. Managed, cleaned, and standardized
+real-world datasets, implemented gradient descent, and addressed multicollinearity using correlation matrices. Compared final
+model results to scikit-learn’s Linear Regression, achieving nearly identical $R^2$ values, demonstrating the correctness and
+robustness of the implementation.
 
 - Tools: Pandas, Seaborn, Matplotlib, and Scikit-learn (for comparison)
 - Concepts: Derivatives, Linear Regression, Gradient Descent, Multicollinearity, Feature Engineering, Standardizing, etc.
@@ -25,7 +35,7 @@ Going into Linear Regression but without any Scikit-learn! This project emphasiz
 
 
 ### Kruskal, Prim, Dijkstra, and Chomp game
-Notebook + LaTeX file focusing on the implementation of Kruskal, Prim, and Dijkstra algorithms on example graphs + winning strategies in the game of Chomp.
+Implemented Kruskal’s, Prim’s, and Dijkstra’s algorithms from scratch in Python and applied them to user-designed graphs with custom adjacency matrices, ensuring each met problem-specific constraints like unique edge weights and minimum vertex degree. Visualized minimum spanning trees and shortest paths, and explained the underlying logic behind each algorithm’s behavior. Additionally, developed and tested winning strategies for the game of Chomp across different board types, including linear, square, and $2 \times n$ configurations, using game theory and symmetry-based tactics.
 
 - Tools: numpy, matplotlib
 - Concepts: Graph Theory, Adjancency Matrices, Game Theory, etc.

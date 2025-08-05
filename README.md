@@ -20,6 +20,13 @@ approximation yielded results nearly identical to the standard method despite hi
 - Concepts: Monte Carlo Markov Chains, Nested Algorithms, Mixture models, EM (obviously), etc.
 - Check out the project here: https://github.com/NoahDPJ03/EM
 
+### Neural Network($R^2 \approx 0.8$), EDA, + data cleaning on Salary Data 
+Cleaned and formatted data (making the data appropriate for a neural network), did Exploratory Data Analysis (EDA) on data, 
+and finally implemented a neural network using PyTorch, getting around a $0.8 R^2$ score.
+
+- Tools: Pandas, Seaborn, Matplotlib, scikit-learn, Pytorch
+- Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+
 ### Linear Regression from Scratch
 Built a linear regression model from scratch in Python to explore the mathematical foundations behind the algorithm, avoiding
 scikit-learn during implementation. Started with simple univariate regression, then extended to multivariate cases, ultimately

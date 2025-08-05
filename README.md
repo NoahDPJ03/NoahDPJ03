@@ -26,6 +26,7 @@ and finally implemented a neural network using PyTorch, getting around a $0.8 R^
 
 - Tools: Pandas, Seaborn, Matplotlib, scikit-learn, Pytorch
 - Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+- https://github.com/NoahDPJ03/Neural-Net-Salary-Data
 
 ### Linear Regression from Scratch
 Built a linear regression model from scratch in Python to explore the mathematical foundations behind the algorithm, avoiding

@@ -14,7 +14,7 @@ MCMC-based approximation—to compare their effectiveness in estimating paramete
 methods from scratch in Python, including robust E- and M-step functions, parameter updates, and log-likelihood tracking. Built
 a randomized data generator to simulate mixtures of continuous and discrete distributions, automating large-scale tests without
 user input. Visualized performance through convergence plots and statistical comparisons, revealing that the MCMC
-approximation yielded results nearly identical to the standard method despite higher complexity.
+approximation had errors in mixture weights.
 
 - Tools: Matplotlib, Numpy, functools
 - Concepts: Monte Carlo Markov Chains, Nested Algorithms, Mixture models, EM (obviously), etc.

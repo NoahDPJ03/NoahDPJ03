@@ -4,11 +4,12 @@ This profile showcases my portfolio of data science and machine learning project
 
 ## Directory
 
-[How to Run][#how-to-run]
-[Projects][#projects]
-- [Expectation Maximization Proj.][#expectation-maximization---monte-carlo-markov-chain-vs-responsibilities-methods]
-- [Salary Data Neural Net & model comparisons](#neural-network--model-comparison-eda--data-cleaning-on-salary-data)
-[About][#about]
+
+[How to Run](#how-to-run)  
+[Projects](#projects)  
+- [Expectation Maximization Proj.](#expectation-maximization---monte-carlo-markov-chain-vs-responsibilities-methods)  
+- [Salary Data Neural Net & Model Comparisons](#neural-network--model-comparison-eda--data-cleaning-on-salary-data)  
+[About](#about)
 
 
 
@@ -22,14 +23,14 @@ Mostly all notebooks are built in Google Colab. You can open and run them using 
 |---------|-------------|------------------|-------|
 | **Expectation Maximization – Monte Carlo Markov Chain vs. Responsibilities Methods** | Developed and analyzed two EM algorithms — the traditional Responsibility Method and a custom MCMC-based approximation — to compare effectiveness in estimating parameters of mixed distributions. Built a data generator for mixed continuous/discrete distributions, automated large-scale testing, and visualized convergence/error patterns. | **Tools:** Matplotlib, NumPy, functools<br>**Concepts:** MCMC, Nested Algorithms, Mixture Models, EM | [GitHub](https://github.com/NoahDPJ03/EM)
 
-| **Neural Network & Model Comparison, EDA, + Data Cleaning on Salary Data** | Cleaned and formatted data for neural networks, performed EDA, implemented a PyTorch model (~0.8 R²), and compared it to a RandomForestRegressor. | **Tools:** Pandas, Seaborn, Matplotlib, scikit-learn, PyTorch<br>**Dataset:** | [Dataset](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data) [GitHub](https://github.com/NoahDPJ03/Neural-Net-Salary-Data) |
+| **Neural Network & Model Comparison, EDA, + Data Cleaning on Salary Data** | Cleaned and formatted data for neural networks, performed EDA, implemented a PyTorch model (~0.8 R²), and compared it to a RandomForestRegressor. | **Tools:** Pandas, Seaborn, Matplotlib, scikit-learn, PyTorch | [Dataset](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data) [GitHub](https://github.com/NoahDPJ03/Neural-Net-Salary-Data) |
 
 | **Linear Regression from Scratch** | Built a linear regression model from scratch in Python to explore the mathematical foundations behind the algorithm, avoiding
 scikit-learn during implementation. Started with simple univariate regression, then extended to multivariate cases, ultimately
 creating a generalized function capable of modeling any number of independent variables. Managed, cleaned, and standardized
 real-world datasets, implemented gradient descent, and addressed multicollinearity using correlation matrices. Compared final
 model results to scikit-learn’s Linear Regression, achieving nearly identical $R^2$ values, demonstrating the correctness and
-robustness of the implementation. | **Tools:** Pandas, Seaborn, Matplotlib, and Scikit-learn (for comparison) <br>**Concepts:** Derivatives, Linear Regression, Gradient Descent, Multicollinearity, Feature Engineering, Standardizing, etc. | [Dataset](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025) [GitHub](https://github.com/NoahDPJ03/Linear-Regression-from-Scratch) 
+robustness of the implementation. | **Tools:** Pandas, Seaborn, Matplotlib, and Scikit-learn (for comparison)<br>**Concepts:** Derivatives, Linear Regression, Gradient Descent, Multicollinearity, Feature Engineering, Standardizing, etc. | [Dataset](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025) [GitHub](https://github.com/NoahDPJ03/Linear-Regression-from-Scratch) 
 
 | **Kruskal, Prim, Dijkstra, and Chomp Game** | Implemented Kruskal’s, Prim’s, and Dijkstra’s algorithms from scratch in Python, applied them to user-designed graphs, and visualized MSTs and shortest paths. Also developed winning strategies for Chomp using game theory and symmetry tactics. | **Tools:** NumPy, Matplotlib<br>**Concepts:** Graph Theory, Adjacency Matrices, Game Theory | [GitHub](https://github.com/NoahDPJ03/KrusPrimDijkChomp)
 

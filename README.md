@@ -1,7 +1,3 @@
-# Hello! 
-
-This profile showcases my portfolio of data science and machine learning projects, spanning from tutorial-based implementations to original work. Projects are created using Python and Jupyter notebooks, but often in Google Colab.
-
 ## Directory
 
 

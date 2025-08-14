@@ -6,10 +6,9 @@ This profile showcases my portfolio of data science and machine learning project
 
 
 -[How to Run](#how-to-run) 
-
 -[Projects](#projects)  
   - [Expectation Maximization Proj.](#expectation-maximization---monte-carlo-markov-chain-vs-responsibilities-methods)  
-  -[Salary Data Neural Net & Model Comparisons](#neural-network--model-comparison-eda--data-cleaning-on-salary-data)  
+  - [Salary Data Neural Net & Model Comparisons](#neural-network--model-comparison-eda--data-cleaning-on-salary-data)  
 -[About](#about)
 
 

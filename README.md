@@ -64,20 +64,6 @@ This project goes into using Data Analysis techniques and some Linear Regression
 - Datasets: https://www.kaggle.com/datasets/jackdaoud/esports-earnings-for-players-teams-by-game
 - Check it out here: https://github.com/NoahDPJ03/EDA-Esports-Earnings
 
-### California House Pricing Prediction - Tutorial: https://www.youtube.com/watch?v=Wqmtf9SA_kk&t=54s&ab_channel=NeuralNine
-A beginner-friendly project using linear regression to predict house prices in California based on features like location, income, and population. This project helps build foundational skills in data preprocessing, visualization, and regression modeling.
-
-- Tools: Pandas, Matplotlib, Scikit-learn 
-- Concepts: Linear Regression, Feature Engineering, Model Evaluation
-- Check it out here: https://github.com/NoahDPJ03/California-House-Prediction
-
-### Learning Random Forest Regression - Tutorial: https://www.youtube.com/watch?v=YUsx5ZNlYWc&t=601s&ab_channel=Ryan%26MattDataScience
-A notebook focused on learning how Random Forest Regression works, implemented using Scikit-learn. It demonstrates how ensemble methods improve predictions compared to simpler models.
-
-- Tools: Scikit-learn, NumPy
-- Concepts: Decision Trees, Random Forests, Overfitting vs. Generalization
-- Check it out here: https://github.com/NoahDPJ03/Learning-Random-Forest-Regression
-
 
 
 
